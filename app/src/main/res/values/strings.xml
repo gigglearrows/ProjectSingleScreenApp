@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project: Single Screen App</string>
+    <string name="info_text">The Chai Tea House is the best kept secret in Coromandel town. A funky, laid back local cafe with intentionality and spirit.</string>
+    <string name="address_text">24 Wharf Road, Coromandel, \nNew Zealand 3506</string>
+    <string name="phone_text">+64 21 893 055</string>
+    <string name="schedule_text">Mon-Sat. 09:00&#8211;17:00</string>
+    <string name="website_text"><a href="http://www.thechaiteahouse.com">http://thechaiteahouse.com/</a></string>
+    <string name="mail_text">contact@thechaiteahouse.com</string>
+    <string name="review2">“A friendly stopping place.”</string>
+    <string name="review3">“Go for a chai.”</string>
+</resources>
